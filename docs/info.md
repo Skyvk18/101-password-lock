@@ -11,7 +11,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
-The 101 Password Lock uses three input switches and logic gates to check if the correct password is entered. The circuit uses two AND gates and two NOT gates to compare the inputs to the password 101. When the correct combination is entered, the green LED turns on indicating that the system is unlocked. If any other combination is entered the red LED turns on, indicating that the system is locked.
+The 101 Password Lock uses three input switches and logic gates to check if the correct password is entered. The circuit uses two AND gates and two NOT gates to compare the inputs to the password 101. When the correct combination is entered, the green LED turns on, indicating that the system is unlocked. If any other combination is entered the red LED turns on, indicating that the system is locked.
 
 ## How to test
 
