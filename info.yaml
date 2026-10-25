@@ -1,6 +1,6 @@
 # Tiny Tapeout project information (Wokwi project)
 project:
-  wokwi_id:     The 101 Password Lock uses logic gates to verify a three-bit password. When the correct combination (101) is entered, a green LED lights up; otherwise, a red LED indicates an incorrect password.       # Set this to the ID of your Wokwi project (the number from the project's URL)
+  wokwi_id:     478889023003507713      # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "101 Password Logic"      # Project title
   author:       "Aniket Dixit & Michael Vert"      # Your name
   discord:      "wandering_kashak & skyvk"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
